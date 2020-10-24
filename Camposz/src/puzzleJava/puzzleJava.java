@@ -60,7 +60,7 @@ puzzleJava()
     b9.addActionListener(this);  
       
     add(b1);add(b2);add(b3);add(b4);add(b5);add(b6);add(b7);add(b8);add(b9);  
-    setSize(400,400);  
+    setSize(233,273);  
     setLayout(null);  
     setVisible(true);  
 }  
